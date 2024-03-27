@@ -1,0 +1,14 @@
+openai==0.28
+streamlit
+python-dotenv
+Pillow
+audio_recorder_streamlit
+gTTS　
+google-api-python-client # または必要なGoogleクライアントライブラリ
+PyYAML
+langchain
+google
+google-cloud-speech
+pyttsx3
+streamlit-audiorec
+google-cloud-texttospeech
